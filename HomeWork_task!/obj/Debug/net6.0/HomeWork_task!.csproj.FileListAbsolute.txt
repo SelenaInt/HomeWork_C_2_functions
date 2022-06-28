@@ -1,0 +1,15 @@
+/Users/selena/Downloads/Student IT/Seminar_massiv_functions/Workout/HomeWork_task!/bin/Debug/net6.0/HomeWork_task!
+/Users/selena/Downloads/Student IT/Seminar_massiv_functions/Workout/HomeWork_task!/bin/Debug/net6.0/HomeWork_task!.deps.json
+/Users/selena/Downloads/Student IT/Seminar_massiv_functions/Workout/HomeWork_task!/bin/Debug/net6.0/HomeWork_task!.runtimeconfig.json
+/Users/selena/Downloads/Student IT/Seminar_massiv_functions/Workout/HomeWork_task!/bin/Debug/net6.0/HomeWork_task!.dll
+/Users/selena/Downloads/Student IT/Seminar_massiv_functions/Workout/HomeWork_task!/bin/Debug/net6.0/HomeWork_task!.pdb
+/Users/selena/Downloads/Student IT/Seminar_massiv_functions/Workout/HomeWork_task!/obj/Debug/net6.0/HomeWork_task!.csproj.AssemblyReference.cache
+/Users/selena/Downloads/Student IT/Seminar_massiv_functions/Workout/HomeWork_task!/obj/Debug/net6.0/HomeWork_task!.GeneratedMSBuildEditorConfig.editorconfig
+/Users/selena/Downloads/Student IT/Seminar_massiv_functions/Workout/HomeWork_task!/obj/Debug/net6.0/HomeWork_task!.AssemblyInfoInputs.cache
+/Users/selena/Downloads/Student IT/Seminar_massiv_functions/Workout/HomeWork_task!/obj/Debug/net6.0/HomeWork_task!.AssemblyInfo.cs
+/Users/selena/Downloads/Student IT/Seminar_massiv_functions/Workout/HomeWork_task!/obj/Debug/net6.0/HomeWork_task!.csproj.CoreCompileInputs.cache
+/Users/selena/Downloads/Student IT/Seminar_massiv_functions/Workout/HomeWork_task!/obj/Debug/net6.0/HomeWork_task!.dll
+/Users/selena/Downloads/Student IT/Seminar_massiv_functions/Workout/HomeWork_task!/obj/Debug/net6.0/refint/HomeWork_task!.dll
+/Users/selena/Downloads/Student IT/Seminar_massiv_functions/Workout/HomeWork_task!/obj/Debug/net6.0/HomeWork_task!.pdb
+/Users/selena/Downloads/Student IT/Seminar_massiv_functions/Workout/HomeWork_task!/obj/Debug/net6.0/HomeWork_task!.genruntimeconfig.cache
+/Users/selena/Downloads/Student IT/Seminar_massiv_functions/Workout/HomeWork_task!/obj/Debug/net6.0/ref/HomeWork_task!.dll
