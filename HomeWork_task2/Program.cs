@@ -16,12 +16,14 @@ if (number < characternNumber)
     Console.Write("В вашем числе нет третьей цифры");
 }
 
+else if (number > characternNumber)
+{
+    Console.Write("В вашем числе больше трех цифр");
+}
+
 else
 {
     Console.WriteLine($"третья цифра вашего числа:  {number % 10}"); // int findThird = number % 10; сокращаем алгоритм
 }
 
-if (number > characternNumber)
-{
-    Console.Write("В вашем числе больше трех цифр");
-}
+
