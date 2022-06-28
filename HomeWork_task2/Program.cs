@@ -16,7 +16,7 @@ if (number < characternNumber)
     Console.Write("В вашем числе нет третьей цифры");
 }
 
-else if (number > characternNumber)
+else if (number > characternNumber*10)
 {
     Console.Write("В вашем числе больше трех цифр");
 }
